@@ -7,7 +7,7 @@
 title: https://openclassrooms.com/fr/membres/rio-affoumani
 
 # First name or full name
-name: rio
+name: Rio AFFOUMANI
 date: 2019-09-08 00:05
 
 # One line.
@@ -18,41 +18,33 @@ short_description: J'aime le basket-ball, le cyclisme, le sport en général. J'
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Bonjour, je m'appelle Rio AFFOUMANI, j'ai 36 ans et je suis passionné de sport, en particulier le basket-ball et le cyclisme.
+	Je suis actuellement en poste et ai entammé cette formation avec pour objectif une reconvertion professionnelle. 
+	J'aime l'informatique mais je suis novice, mais j'ai envie d'apprendre, alors parfois c'est un peu compliqué d'intégrer certaines notions.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: rio.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: 
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Rio AFFOUMANI en formation de développeur JAVA.
+  - title: définissez votre stratégie d'apprentissage.
     description: Je suis novice dans le monde du développement mais néanmoins très motivé en vue d'une reconvertion professionnelle. Je suis père de famille 
-	et pratique régulièrement du sport. Voici le lien vers mon profil Linkedin: https://www.linkedin.com/in/rio-affoumani-926195184/
+	et pratique régulièrement du sport. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: rio/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/rio-affoumani-926195184/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: rio/projet_2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/rio.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: rio/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
  
